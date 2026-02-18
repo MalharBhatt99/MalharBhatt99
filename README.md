@@ -1,71 +1,75 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Malhar%20Bhatt%20-%20Experimental%20Lab%20🧪-6c63ff?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Malhar%20Bhatt%20-%20Engineering%20Sandbox%20🧪-6c63ff?style=for-the-badge">
 </p>
 
 <p align="center">
- <a href="https://github.com/MalharBhatt99">
-
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+Code+Laboratory+%F0%9F%A7%AA;Experimenting+with+ideas+and+new+technologies+%E2%9A%99%EF%B8%8F;Testing+projects%2C+concepts+and+automation+%F0%9F%A4%96;Learning+by+building+every+day+%F0%9F%93%9A" 
-    alt="Typing SVG" 
-  />
-
-</a>
+  <a href="https://github.com/MalharBhatt99">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&center=true&vCenter=true&width=750&lines=%7C+Prototyping+Systems+and+Testing+Architectures+%7C;%7C+Automation+Experiments+%26+Tooling+%7C;%7C+Learning+Through+Consistent+Building+%7C" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ## 🧪 About This Account
 
-This is my **experimental / practice account**.
+This is my **engineering sandbox** — a space dedicated to experimentation and structured learning.
 
 Here I:
-- 🛠 Test new ideas and concepts  
-- 🤖 Experiment with automation & bots  
-- 📦 Build rough prototypes  
-- 📚 Practice and explore new technologies  
+
+- 🛠 Prototype new system ideas  
+- 🤖 Build and test automation scripts  
+- 📦 Create early-stage or experimental applications  
+- 📚 Explore unfamiliar technologies  
+- 🔍 Practice backend and system design concepts  
 
 ---
 
-## 🚀 Main Professional Account
+## 🚀 Main Professional Profile
 
-👉 **Primary GitHub:**  
+For production-ready projects and structured portfolio work:
+
+👉 **Primary Account:**  
 🔗 https://github.com/MalharBhatt-dev  
 
-(For portfolio projects & professional work)
-
 ---
 
-## 🛠 Currently Exploring
+## 🛠 Current Exploration Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,flask,mongodb,mysql,firebase,docker,git,github,pycharm,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,flask,mongodb,mysql,firebase,docker,git,github,pycharm,vscode" />
 </p>
 
 ---
 
-## 📌 Purpose of This Profile
+## 🎯 Focus Areas
 
-This space is dedicated to:
-- Learning by doing  
-- Trying new architectures  
-- Debugging experiments  
-- Practicing system design  
-- Building internal tools  
-
----
-
-## ⚡ Philosophy
-
-> Experiment. Break. Fix. Improve. Repeat.
+- Backend Architecture Experiments  
+- System Design Practice  
+- Internal Tool Development  
+- Performance Optimization Testing  
+- DevOps & Deployment Workflows  
 
 ---
 
-## 📊 Activity
+## ⚡ Development Philosophy
 
-![](https://github-readme-stats.vercel.app/api?username=MalharBhatt99&show_icons=true&theme=tokyonight&cache_seconds=1800)
+> Build fast.  
+> Break safely.  
+> Refactor intelligently.  
+> Improve continuously.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalharBhatt99&layout=compact&theme=tokyonight&cache_seconds=1800)
+---
 
+## 📊 Activity Overview
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MalharBhatt99&show_icons=true&theme=tokyonight&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalharBhatt99&layout=compact&theme=tokyonight&cache_seconds=1800" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Consistency over intensity. Long-term mastery over short-term output.</i>
+</p>
